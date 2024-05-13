@@ -3,9 +3,9 @@
 ##### Hi, I'm Ritik:
 
 - Currently pursuing my Batchelors in Technology from Jaypee University of Information Technology.
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+-  ![AndroidGIF](https://github.com/ritik6559/ritik6559/assets/141134361/673c0a18-1798-4af4-b176-201c8d09436b)
+Looking forward to becoming an Android developer.
+- :speech_balloon: Ask me about Android Development.
 - :mailbox: You can reach me with the links below
 
 
