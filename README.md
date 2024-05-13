@@ -29,8 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-222222?style=flat&logo=JetpackCompose-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-Bloc-222222?style=flat&logo=bloc&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
@@ -45,12 +44,13 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+##### Fun fact: I once solved the world's oldest question with a single line of C++
 <!-- wi*quL3fcV -->
 
 ```javascript
 // Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+puzzle = ['🥚', '🐣', '🐥', '🐔'];
+sort(puzzle.begin(),puzzle.end());
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
