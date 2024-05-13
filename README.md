@@ -27,12 +27,10 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-222222?style=flat&logo=JetpackCompose-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-Bloc-222222?style=flat&logo=bloc&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Bloc](https://img.shields.io/badge/-Bloc-222222?style=flat&logo=bloc&logoColor=0769AD)
+![FireBase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=339933)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+
 
 ##### Some of my favorite open source projects
 
