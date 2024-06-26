@@ -3,8 +3,133 @@
 ##### Hi, I'm Ritik:
 
 - Currently pursuing Batchelors in Technology from Jaypee University of Information Technology.
--  <img src="data:image/jpeg;base64,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" width="48">Looking forward to becoming an Android developer.
-- :speech_balloon: Ask me about Android Development.
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
+
+Last Edited on: 29/4/2023- :speech_balloon: Ask me about Android Development.
 - :mailbox: You can reach me with the links below
 
 
