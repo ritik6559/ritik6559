@@ -1,8 +1,6 @@
 
 
-##### Hi, I'm Ritik:
 
-- Currently pursuing Batchelors in Technology from Jaypee University of Information Technology.
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -31,7 +29,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Kotlin, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Flutter, Express, Nodejs, MongoDB**
 
 - 👨‍💻 Keen interest in **Mobile app development, UI/UX design, backend technologies, and cloud computing**.
 
