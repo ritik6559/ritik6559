@@ -53,7 +53,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ritik6559&show_icons=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ritik6559&show_icons=true&theme=dark" />
   <br></br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ritik6559&theme=dark" alt="GitHub Streak" /></a>
 </td>
