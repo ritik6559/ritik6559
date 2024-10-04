@@ -32,15 +32,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Express, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Flutter, Express, Nodejs, MongoDB**.
 
 - 👨‍💻 Keen interest in **Mobile app development, UI/UX design, backend technologies, and cloud computing**.
 
-- 💬 Ask me about **Flutter, Kotlin, Nodejs, MongoDB**
+- 💬 Ask me about **Flutter, Kotlin, Nodejs, MongoDB**.
 
-- 📫 Feel free to reach me out **ritikjoshi741@gmail.com**
+- 📫 Feel free to reach me out **ritikjoshi741@gmail.com**.
 
-- ⚡ Fun Fact: I love exploring new technologies and turning ideas into real-world applications
+- ⚡ Fun Fact: I love exploring new technologies and turning ideas into real-world applications. 
 
 <!--Intro end-->
 
@@ -89,7 +89,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,flutter,kotlin,dart,git,github,js,nodejs,express,mongodb,firebase,supabase,mysql,postgresql,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,flutter,kotlin,dart,git,github,js,typescript,react,nodejs,express,mongodb,firebase,supabase,mysql,postgresql,figma,vscode&perline=14" />
   </a>
 </p>
 
