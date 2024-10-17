@@ -42,7 +42,7 @@
 
 - ⚡ Fun Fact: I love exploring new technologies and turning ideas into real-world applications. 
 
-<!--Intro end-->
+
 
 
 
