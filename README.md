@@ -30,11 +30,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Express, Nodejs, MongoDB**.
+- 🔭 I’m currently working on **React Ntaive, Spring Boot, AWS, MongoDB**.
 
 - 👨‍💻 Keen interest in **Mobile app development, UI/UX design, backend technologies, and cloud computing**.
 
-- 💬 Ask me about **Flutter, Kotlin, Nodejs, MongoDB**.
+- 💬 Ask me about **React Native, Java, Spring Boot, MongoDB**.
 
 - 📫 Feel free to reach me out **ritikjoshi741@gmail.com**.
 
