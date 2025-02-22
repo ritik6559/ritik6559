@@ -28,9 +28,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React Ntaive, Spring Boot, AWS, MongoDB**.
+- 🔭 I’m currently working on **React Native, Spring Boot, AWS, MongoDB**.
 
-- 👨‍💻 Keen interest in **Mobile app development, UI/UX design, backend technologies, and cloud computing**.
+- 👨‍💻 Keen interest in **Mobile app development, DSA and backend technologies**.
 
 - 💬 Ask me about **React Native, Java, Spring Boot, MongoDB**.
 
