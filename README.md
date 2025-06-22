@@ -25,15 +25,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React Native, Spring Boot, AWS, MongoDB**.
+- 🔭 Currently exploring Django, diving deeper into backend development, and getting hands-on with AWS.
 
-- 👨‍💻 Keen interest in **Mobile app development, DSA and backend technologies**.
+- 👨‍💻 I enjoy building things from the ground up and love figuring out how systems work behind the scenes.
 
-- 💬 Ask me about **React Native, Java, Spring Boot, MongoDB**.
+- 💬 Always up for a chat about Django, Python, or anything backend-related!
 
-- 📫 Feel free to reach me out **ritikjoshi741@gmail.com**.
+- 📫 You can reach me at ritikjoshi741@gmail.com — happy to connect or collaborate!
 
-- ⚡ Fun Fact: I love exploring new technologies and turning ideas into real-world applications. 
+- ⚡ Fun Fact: I love turning random ideas into real apps — always building, always experimenting.
 
 
 
