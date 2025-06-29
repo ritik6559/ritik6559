@@ -25,11 +25,11 @@
 
 
 <!--Intro start-->
-- 🔭 Currently exploring **Django**, diving deeper into backend development, and getting hands-on with **AWS**.
+- 🔭 Currently exploring **Spring boot**, diving deeper into backend development, and getting hands-on with **AWS**.
 
 - 👨‍💻 I enjoy building things from the ground up and love figuring out how systems work behind the scenes.
 
-- 💬 Always up for a chat about **Django**, **Python**, or anything backend-related!
+- 💬 Always up for a chat about **Spring boot**, **Java**,  **Python**, or anything backend-related!
 
 - 📫 You can reach me at **ritikjoshi741@gmail.com** — happy to connect or collaborate!
 
