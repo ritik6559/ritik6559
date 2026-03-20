@@ -14,14 +14,12 @@
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 Currently exploring **Spring boot**, diving deeper into backend development, and getting hands-on with **AWS**.
