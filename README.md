@@ -32,7 +32,6 @@
 
 - ⚡ Fun Fact: I love turning random ideas into real apps — always building, always experimenting.
 
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -65,7 +64,6 @@
 
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
