@@ -32,6 +32,7 @@
 
 - ⚡ Fun Fact: I love turning random ideas into real apps — always building, always experimenting.
 
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
